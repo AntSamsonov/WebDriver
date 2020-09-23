@@ -36,8 +36,7 @@ public class LoginTest {
 
 //        @Test
 //        public void lT() {
-//            login.sendKeys("89128705148");
-//            password.sendKeys("Ghjcnjvubuc124392wot");
+//            login.sendKeys("");
 //            vhod.click();
 //            photo.click();
 //            messages.click();
